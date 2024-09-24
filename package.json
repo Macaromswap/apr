@@ -1,0 +1,9 @@
+{
+    "name": "apr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^1.7.7"
+    }
+}
